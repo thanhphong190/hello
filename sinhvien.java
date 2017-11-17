@@ -16,3 +16,8 @@ class SVien
 	{
 		return hoTen;
 	}
+	public void sethoTen(String ht)
+	{
+		this.hoTen=ht;
+	}
+}
